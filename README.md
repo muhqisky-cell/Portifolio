@@ -6,3 +6,5 @@ maaf pak saya hanya menggunakan hp, dengan bantuan beberapa aplikasi seperti
 3.vscode
 
 dan saya melakukan clone repository dengan partner saya (AriAfrizal TEKPEN 1)
+
+#Kesimpulan Proyek ini dibuat sebagai latihan menggunakan github melalui gitbase.
